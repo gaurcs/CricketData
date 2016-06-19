@@ -1,0 +1,28 @@
+{
+  "name": "Cricket Data",
+  "version": "1.0.0",
+  "description": "A minimal app made using Electron showing cricket data ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurcs/CricketData.git"
+  },
+  "keywords": [
+    "Electron",
+    "Cricket",
+    "Data",
+    "tutorial"
+  ],
+  "author": "Vasu Gaur",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gaurcs/CricketData/issues"
+  },
+  "homepage": "https://github.com/gaurcs/CricketData/blob/master/README.md",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
